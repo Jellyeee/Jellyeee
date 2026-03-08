@@ -1,24 +1,14 @@
-Unreal Engine과 Unity를 중심으로 게임 개발을 공부하고 있는 개발자입니다.
-
----
-
-# Featured Projects
+# Projects
 
 ## Quiet_Protocol
 
 <img src="IMAGE_PATH" width="700"/>
 
-**Status**
-In Progress
+Unreal Engine 기반 TPS 프로젝트
 
-**Description**
-
-Unreal Engine 기반 TPS 프로젝트입니다.
-캐릭터 전투 시스템과 애니메이션 시스템을 중심으로 개발하고 있습니다.
-
-**Tech**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="22"/> Unreal Engine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/> C++
+<img src="https://img.shields.io/badge/UE5-Unreal%20Engine-black?style=flat&logo=unrealengine"/>
+<img src="https://img.shields.io/badge/Language-C++-blue?style=flat&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Status-In%20Progress-green"/>
 
 Repository
 https://github.com/Jellyeee/Quiet_Protocol
@@ -29,16 +19,11 @@ https://github.com/Jellyeee/Quiet_Protocol
 
 <img src="IMAGE_PATH" width="700"/>
 
-**Status**
-Planned
+Unreal Engine 프로젝트 (기획 단계)
 
-**Description**
-
-새로운 Unreal Engine 프로젝트로 현재 기획 및 시스템 구조 설계 단계입니다.
-
-**Tech**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="22"/> Unreal Engine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22"/> C++
+<img src="https://img.shields.io/badge/UE5-Unreal%20Engine-black?style=flat&logo=unrealengine"/>
+<img src="https://img.shields.io/badge/Language-C++-blue?style=flat&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Status-Planned-lightgrey"/>
 
 Repository
 예정
@@ -49,16 +34,11 @@ Repository
 
 <img src="IMAGE_PATH" width="700"/>
 
-**Status**
-Updating
+Unity 기반 프로젝트
 
-**Description**
-
-Unity 기반 프로젝트로 구조 개선 및 기능 보완을 진행할 예정입니다.
-
-**Tech**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="22"/> Unity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22"/> C#
+<img src="https://img.shields.io/badge/Unity-Game%20Engine-black?style=flat&logo=unity"/>
+<img src="https://img.shields.io/badge/Language-C%23-purple?style=flat&logo=csharp"/>
+<img src="https://img.shields.io/badge/Status-Updating-orange"/>
 
 Repository
 https://github.com/Jellyeee/FindingYou
@@ -69,35 +49,11 @@ https://github.com/Jellyeee/FindingYou
 
 <img src="IMAGE_PATH" width="700"/>
 
-**Status**
-Updating
+Unity 기반 슈팅 프로젝트
 
-**Description**
-
-Unity 기반 슈팅 프로젝트입니다.
-게임 플레이 개선 및 AI 수정 예정입니다.
-
-**Tech**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="22"/> Unity <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22"/> C#
+<img src="https://img.shields.io/badge/Unity-Game%20Engine-black?style=flat&logo=unity"/>
+<img src="https://img.shields.io/badge/Language-C%23-purple?style=flat&logo=csharp"/>
+<img src="https://img.shields.io/badge/Status-Updating-orange"/>
 
 Repository
 https://github.com/Jellyeee/SixShooter
-
----
-
-# Tech Stack
-
-### Game Engine
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="25"/> Unreal Engine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="25"/> Unity
-
-### Programming
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25"/> C#
-
-### Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25"/> Visual Studio
-
----
