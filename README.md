@@ -36,7 +36,7 @@
       <p> 3D 멀티플레이 프로젝트입니다.</p>
       <br>
       <a href="https://github.com/Jellyeee/FindingYou">
-        <img src="https://github.com/user-attachments/assets/c7a52412-d624-4823-aa74-ecb9861d59f7" width="100%" alt="Finding You"/>
+        <img src="https://github.com/user-attachments/assets/b61e649f-d9f0-4844-81e2-530fa438721e" width="100%" alt="Finding You"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -51,9 +51,8 @@
       <p>2D 픽셀 아트 기반의 탑다운 슈팅 게임입니다.</p>
       <br>
       <a href="https://github.com/Jellyeee/SixShooter">
-        <img src="https://github.com/user-attachments/assets/56d7adc9-aa8b-453c-8462-3b85af0e03e4" width="100%" alt="Six Shooter"/>
+        <img src="https://github.com/user-attachments/assets/90fb926a-b464-42b0-97e4-3ae165191a5f" width="100%" alt="Six Shooter"/>
       </a>
     </td>
   </tr>
 </table>
-
