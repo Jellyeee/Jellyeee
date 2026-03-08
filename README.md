@@ -1,114 +1,33 @@
-# Featured Projects
+🛠 Project Portfolio
+Unreal Engine Projects
+Quiet_Protocol In Progress
+언리얼 엔진 기반의 프로젝트로 현재 개발 진행 중입니다.
 
-## Quiet_Protocol
+Tech Stack:
 
-<img src="images/quiet_protocol.png" width="700"/>
+Unknown Planning
+차기 제작을 위해 기획 및 설계 단계에 있는 프로젝트입니다.
 
-Unreal Engine 기반 프로젝트
+Tech Stack:
 
-![UE5](https://img.shields.io/badge/Engine-Unreal%20Engine-black?style=flat\&logo=unrealengine)
-![C++](https://img.shields.io/badge/Language-C++-blue?style=flat\&logo=cplusplus)
-![Status](https://img.shields.io/badge/Status-In%20Progress-green)
+Unity Projects
+Finding You Completed
+로우폴리 아트 스타일과 마스터 서버 연결을 통한 멀티플레이 요소가 포함된 프로젝트입니다.
 
-주요 구현 내용
+Tech Stack:
 
-* 
+Preview:
+<img width="1266" height="706" alt="FindingYou" src="https://github.com/user-attachments/assets/28454f3f-ee56-454d-87bf-811701f3ade6" />
 
-Repository
-https://github.com/Jellyeee/Quiet_Protocol
+Six Shooter Completed
+픽셀 아트 기반의 탑다운 슈팅 게임으로, 직관적인 UI와 게임 플레이를 특징으로 합니다.
 
----
+Tech Stack:
 
-## Unknown
+Preview:
+<img width="1268" height="783" alt="Six_Shooter" src="https://github.com/user-attachments/assets/ef4f093a-f7e1-4d1f-92e9-f2017574dd7c" />
 
-<img src="images/unknown_project.png" width="700"/>
 
-새로운 Unreal Engine 프로젝트 (기획 단계)
 
-![UE5](https://img.shields.io/badge/Engine-Unreal%20Engine-black?style=flat\&logo=unrealengine)
-![C++](https://img.shields.io/badge/Language-C++-blue?style=flat\&logo=cplusplus)
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey)
 
-예정 구현 내용
 
-*
-
-Repository
-예정
-
----
-
-## Finding You
-
-<img src="images/finding_you.png" width="700"/>
-
-Unity 기반 프로젝트
-
-![Unity](https://img.shields.io/badge/Engine-Unity-black?style=flat\&logo=unity)
-![C#](https://img.shields.io/badge/Language-C%23-purple?style=flat\&logo=csharp)
-![Status](https://img.shields.io/badge/Status-Updating-orange)
-
-예정 수정 내용
-
-* 코드 구조 리팩토링
-* UI 시스템 개선
-* 성능 최적화
-
-Repository
-https://github.com/Jellyeee/FindingYou
-
----
-
-## Six Shooter
-
-<img src="images/six_shooter.png" width="700"/>
-
-Unity 기반 슈팅 프로젝트
-
-![Unity](https://img.shields.io/badge/Engine-Unity-black?style=flat\&logo=unity)
-![C#](https://img.shields.io/badge/Language-C%23-purple?style=flat\&logo=csharp)
-![Status](https://img.shields.io/badge/Status-Updating-orange)
-
-예정 수정 내용
-
-* Shooting Mechanics 개선
-* Enemy AI 개선
-* Gameplay Polish
-
-Repository
-https://github.com/Jellyeee/SixShooter
-
----
-
-# Tech Stack
-
-### Game Engine
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30"/>
-
-### Programming
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
-
-### Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30"/>
-
----
-
-# Repository Structure
-
-/images
-  quiet_protocol.png
-  finding_you.png
-  six_shooter.png
-
----
-
-# Contact
-
-GitHub
-https://github.com/Jellyeee
