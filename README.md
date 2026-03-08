@@ -12,10 +12,7 @@ Unreal Engine 기반 프로젝트
 
 주요 구현 내용
 
-* Combat Component 구조 설계
-* Weapon System 구현
-* Character Animation System
-* Gameplay Framework 기반 캐릭터 구조
+* 
 
 Repository
 https://github.com/Jellyeee/Quiet_Protocol
@@ -34,9 +31,7 @@ https://github.com/Jellyeee/Quiet_Protocol
 
 예정 구현 내용
 
-* Modular Gameplay System
-* Character Framework
-* Combat Mechanics
+*
 
 Repository
 예정
