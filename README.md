@@ -9,7 +9,10 @@
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="CPP">
       </p>
-      <p>언리얼 엔진5로 개발 중입니다.</p>
+      <p>
+        <b>4인 개인전 생존/탈출 PvPvE</b><br>
+        소음에 민감하게 반응하는 좀비 AI를 피해 무기와 탄약을 파밍하고 최우선으로 탈출하는 것이 목표입니다. 총성 발생 시 좀비 어그로가 급상승하여 전략적인 교전이 필수적입니다.
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Jellyeee/Unknown">
