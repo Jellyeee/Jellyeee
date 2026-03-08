@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
 </p>
-<p>마스터 서버 통신 기능을 탑재한 멀티플레이 프로젝트입니다. </p>
+<p>마스터 서버 통신 기능을 탑재한 멀티플레이 프로젝트입니다.</p>
 <img src="https://github.com/user-attachments/assets/28454f3f-ee56-454d-87bf-811701f3ade6" width="100%"/>
 </td>
 <td width="50%" valign="top">
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
 </p>
-<p>2D 픽셀 아트 기반의 탑다운 슈팅 게임입니다. 유니티의 2D 물리 엔진과 직관적인 입력 시스템을 구축했습니다.</p>
+<p>2D 픽셀 아트 기반의 탑다운 슈팅 게임입니다.</p>
 <img src="https://github.com/user-attachments/assets/ef4f093a-f7e1-4d1f-92e9-f2017574dd7c" width="100%"/>
 </td>
 </tr>
