@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p> 3D 멀티플레이 프로젝트입니다.</p>
+      <p> 3D 멀티플레이 게임으로 AI들 중 진짜 사람을 찾아 최후의 1인이 될 떄까지 생존하는 것이 목표입니다.</p>
       <br>
       <a href="https://github.com/Jellyeee/FindingYou">
         <img src="https://github.com/user-attachments/assets/b61e649f-d9f0-4844-81e2-530fa438721e" width="100%" alt="Finding You"/>
@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p>2D 픽셀 아트 기반의 탑다운 슈팅 게임입니다.</p>
+      <p>2D 픽셀 아트 기반의 탑다운 슈팅 게임으로 6일차까지 생존하여 보스를 제거하며 승리하는 것이 목표입니다.</p>
       <br>
       <a href="https://github.com/Jellyeee/SixShooter">
         <img src="https://github.com/user-attachments/assets/90fb926a-b464-42b0-97e4-3ae165191a5f" width="100%" alt="Six Shooter"/>
