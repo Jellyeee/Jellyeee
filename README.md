@@ -33,24 +33,27 @@
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p>마스터 서버 통신 기능을 탑재한 멀티플레이 프로젝트입니다.</p>
+      <p> 3D 멀티플레이 프로젝트입니다.</p>
+      <br>
       <a href="https://github.com/Jellyeee/FindingYou">
-        <img src="https://github.com/user-attachments/assets/28454f3f-ee56-454d-87bf-811701f3ade6" width="100%" height="220" style="object-fit: cover;" alt="Finding You"/>
+        <img src="https://github.com/user-attachments/assets/c7a52412-d624-4823-aa74-ecb9861d59f7" width="100%" alt="Finding You"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Jellyeee/SixShooter">
         <h3>Six Shooter</h3>
-         <code>Update</code>
+        <code>Update</code>
       </a>
       <p>
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
       <p>2D 픽셀 아트 기반의 탑다운 슈팅 게임입니다.</p>
+      <br>
       <a href="https://github.com/Jellyeee/SixShooter">
-        <img src="https://github.com/user-attachments/assets/ef4f093a-f7e1-4d1f-92e9-f2017574dd7c" width="100%" height="220" style="object-fit: cover;" alt="Six Shooter"/>
+        <img src="https://github.com/user-attachments/assets/56d7adc9-aa8b-453c-8462-3b85af0e03e4" width="100%" alt="Six Shooter"/>
       </a>
     </td>
   </tr>
 </table>
+
