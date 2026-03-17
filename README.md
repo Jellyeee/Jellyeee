@@ -14,7 +14,7 @@
         소음에 민감하게 반응하는 좀비 AI를 피해 무기와 탄약을 파밍하고 최우선으로 탈출하는 것이 목표입니다. 총성 발생 시 좀비 어그로가 급상승하여 전략적인 교전이 필수적입니다.
       </p>
       <br>
-      <a href="https://github.com/Jellyeee/UE5_QP">
+      <a href="https://github.com/Jellyeee/QP">
         <img src="https://github.com/user-attachments/assets/debebcd0-15ce-4d78-add3-89b372e58f7c" width="100%" alt="Six Shooter"/>
       </a>
     </td>
