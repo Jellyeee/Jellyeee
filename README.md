@@ -12,13 +12,13 @@
       <a href="https://github.com/Jellyeee/QP"><img src="https://github.com/user-attachments/assets/debebcd0-15ce-4d78-add3-89b372e58f7c" width="100%" alt="Quiet Protocol"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jellyeee/Unknown">Unknown</a></h3>
+      <h3><a href="https://github.com/Jellyeee/Unknown">미정</a></h3>
       <img src="https://img.shields.io/badge/Status-Planning-ff9900?style=flat-square" alt="Planning">
       <p>
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="CPP">
       </p>
-      <p>차기 기획 프로젝트로, 언리얼 엔진5로 개발 예정입니다.</p>
+      <p> .</p>
     </td>
   </tr>
   <tr>
