@@ -1,6 +1,7 @@
 <table width="100%">
+  <!-- 1. Quiet Protocol -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3><a href="https://github.com/Jellyeee/QP">Quiet_Protocol</a></h3>
       <img src="https://img.shields.io/badge/Status-In_Progress-2ea44f?style=flat-square" alt="In Progress">
       <p>
@@ -11,29 +12,26 @@
       <br>
       <a href="https://github.com/Jellyeee/QP"><img src="https://github.com/user-attachments/assets/debebcd0-15ce-4d78-add3-89b372e58f7c" width="100%" alt="Quiet Protocol"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jellyeee/Unknown">미정</a></h3>
-      <img src="https://img.shields.io/badge/Status-Planning-ff9900?style=flat-square" alt="Planning">
-      <p>
-        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="CPP">
-      </p>
-      <p> .</p>
-    </td>
   </tr>
+
+  <!-- 2. Finding You -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3><a href="https://github.com/Jellyeee/FindingYou">Finding You</a></h3>
       <img src="https://img.shields.io/badge/Status-Update-007ec6?style=flat-square" alt="Update">
       <p>
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p> 3D 멀티플레이 게임으로 AI들 중 진짜 사람을 찾아 최후의 1인이 될 떄까지 생존하는 것이 목표입니다.</p>
+      <p>3D 멀티플레이 게임으로 AI들 중 진짜 사람을 찾아 최후의 1인이 될 때까지 생존하는 것이 목표입니다.</p>
       <br>
       <a href="https://github.com/Jellyeee/FindingYou"><img src="https://github.com/user-attachments/assets/b61e649f-d9f0-4844-81e2-530fa438721e" width="100%" alt="Finding You"/></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+
+  <!-- 3. Six Shooter -->
+  <tr>
+    <td width="100%" valign="top">
       <h3><a href="https://github.com/Jellyeee/SixShooter">Six Shooter</a></h3>
       <img src="https://img.shields.io/badge/Status-Update-007ec6?style=flat-square" alt="Update">
       <p>
