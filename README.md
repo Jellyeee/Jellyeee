@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="CPP">
       </p>
-      <p><b>4인 개인전 생존/탈출 PvPvE</b><br>소음에 민감하게 반응하는 좀비 AI를 피해 무기와 탄약을 파밍하고 최우선으로 탈출하는 것이 목표입니다. 총성 발생 시 좀비 어그로가 급상승하여 전략적인 교전이 필수적입니다.</p>
+      <p>좀비와 다른 플레이어를 피해 발전기를 수리하고 비밀번호를 찾아 탈출하라</p>
     </td>
     <td width="180" align="right" valign="top">
       <br>
@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p>3D 멀티플레이 게임으로 AI들 중 진짜 사람을 찾아 최후의 1인이 될 때까지 생존하는 것이 목표입니다.</p>
+      <p>봇(AI)들 사이에서 진짜를 찾아내어 최후의 1인이 되어라</p>
     </td>
     <td width="180" align="right" valign="top">
       <br>
@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p>2D 픽셀 아트 기반의 탑다운 슈팅 게임으로 6일차까지 생존하여 보스를 제거하며 승리하는 것이 목표입니다.</p>
+      <p>다양한 무기를 활용해 쏟아지는 몬스터들로부터 살아남고 보스를 처치하라</p>
     </td>
     <td width="180" align="right" valign="top">
       <br>
