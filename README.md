@@ -15,7 +15,7 @@
     </td>
     <td width="35%" align="right" valign="middle">
       <a href="https://github.com/Jellyeee/QP">
-        <img src="https://github.com/user-attachments/assets/debebcd0-15ce-4d78-add3-89b372e58f7c" width="250" style="border-radius: 8px;" alt="Quiet Protocol"/>
+        <img src="https://github.com/user-attachments/assets/16d44977-96fb-469b-847c-7ceb5a0ec233" width="250" style="border-radius: 8px;" alt="Quiet Protocol"/>
       </a>
     </td>
   </tr>
