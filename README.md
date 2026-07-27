@@ -13,9 +13,9 @@
       <p>좀비와 다른 플레이어를 피해 발전기를 수리하고 탈출하는 게임</p>
       <br>
     </td>
-    <td width="180" align="right" valign="middle">
+    <td width="35%" align="right" valign="middle">
       <a href="https://github.com/Jellyeee/QP">
-        <img src="https://github.com/user-attachments/assets/debebcd0-15ce-4d78-add3-89b372e58f7c" width="160" style="border-radius: 8px;" alt="Quiet Protocol"/>
+        <img src="https://github.com/user-attachments/assets/debebcd0-15ce-4d78-add3-89b372e58f7c" width="250" style="border-radius: 8px;" alt="Quiet Protocol"/>
       </a>
     </td>
   </tr>
@@ -34,9 +34,9 @@
       <p>AI 봇들 사이에서 진짜 사람을 찾아내어 최후의 1인이 되는 생존 게임</p>
       <br>
     </td>
-    <td width="180" align="right" valign="middle">
+    <td width="35%" align="right" valign="middle">
       <a href="https://github.com/Jellyeee/FindingYou">
-        <img src="https://github.com/user-attachments/assets/b61e649f-d9f0-4844-81e2-530fa438721e" width="160" style="border-radius: 8px;" alt="Finding You"/>
+        <img src="https://github.com/user-attachments/assets/b61e649f-d9f0-4844-81e2-530fa438721e" width="250" style="border-radius: 8px;" alt="Finding You"/>
       </a>
     </td>
   </tr>
@@ -55,9 +55,9 @@
       <p>다양한 무기로 몬스터 웨이브를 막으며 6일 동안 버텨 보스를 처치하는 게임</p>
       <br>
     </td>
-    <td width="180" align="right" valign="middle">
+    <td width="35%" align="right" valign="middle">
       <a href="https://github.com/Jellyeee/SixShooter">
-        <img src="https://github.com/user-attachments/assets/90fb926a-b464-42b0-97e4-3ae165191a5f" width="160" style="border-radius: 8px;" alt="Six Shooter"/>
+        <img src="https://github.com/user-attachments/assets/90fb926a-b464-42b0-97e4-3ae165191a5f" width="250" style="border-radius: 8px;" alt="Six Shooter"/>
       </a>
     </td>
   </tr>
