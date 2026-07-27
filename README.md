@@ -9,7 +9,8 @@
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="CPP">
       </p>
-      <p><b>4인 생존 탈출 PvPvE</b> | 좀비와 다른 플레이어를 피해 발전기를 수리하고 탈출하는 게임</p>
+      <p><b>📌 4인 생존 탈출 경쟁</b></p>
+      <p>좀비와 다른 플레이어를 피해 발전기를 수리하고 탈출하는 게임</p>
       <br>
     </td>
     <td width="180" align="right" valign="middle">
@@ -29,7 +30,8 @@
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p><b>3D 실시간 난투 배틀로얄</b> | AI 봇들 사이에서 진짜 사람을 찾아내어 최후의 1인이 되는 생존 게임</p>
+      <p><b>📌 3D 실시간 난투 배틀로얄</b></p>
+      <p>AI 봇들 사이에서 진짜 사람을 찾아내어 최후의 1인이 되는 생존 게임</p>
       <br>
     </td>
     <td width="180" align="right" valign="middle">
@@ -49,7 +51,8 @@
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="CS">
       </p>
-      <p><b>2D 탑다운 생존 슈팅</b> | 다양한 무기로 몬스터 웨이브를 막으며 버텨 보스를 처치하는 게임</p>
+      <p><b>📌 2D 탑다운 생존 슈팅</b></p>
+      <p>다양한 무기로 몬스터 웨이브를 막으며 6일 동안 버텨 보스를 처치하는 게임</p>
       <br>
     </td>
     <td width="180" align="right" valign="middle">
