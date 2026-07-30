@@ -24,7 +24,7 @@
   <tr>
     <td valign="middle">
       <br>
-      <h3><a href="https://github.com/Jellyeee/FindingYou"> Finding You</a></h3>
+      <h3><a href="https://github.com/Jellyeee/Finding_You"> Finding You</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Update-007ec6?style=flat-square" alt="Update">
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
@@ -35,7 +35,7 @@
       <br>
     </td>
     <td width="35%" align="right" valign="middle">
-      <a href="https://github.com/Jellyeee/FindingYou">
+      <a href="https://github.com/Jellyeee/Finding_You">
         <img src="https://github.com/user-attachments/assets/b61e649f-d9f0-4844-81e2-530fa438721e" width="250" style="border-radius: 8px;" alt="Finding You"/>
       </a>
     </td>
@@ -45,7 +45,7 @@
   <tr>
     <td valign="middle">
       <br>
-      <h3><a href="https://github.com/Jellyeee/SixShooter"> Six Shooter</a></h3>
+      <h3><a href="https://github.com/Jellyeee/SIX_SHOOTER"> Six Shooter</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Update-007ec6?style=flat-square" alt="Update">
         <img src="https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white" alt="Unity">
@@ -56,7 +56,7 @@
       <br>
     </td>
     <td width="35%" align="right" valign="middle">
-      <a href="https://github.com/Jellyeee/SixShooter">
+      <a href="https://github.com/Jellyeee/SIX_SHOOTER">
         <img src="https://github.com/user-attachments/assets/90fb926a-b464-42b0-97e4-3ae165191a5f" width="250" style="border-radius: 8px;" alt="Six Shooter"/>
       </a>
     </td>
