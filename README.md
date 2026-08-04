@@ -3,7 +3,7 @@
   <tr>
     <td valign="middle">
       <br>
-      <h3><a href="https://github.com/Jellyeee/QP"> Quiet_Protocol</a></h3>
+      <h3><a href="https://github.com/Jellyeee/Quiet_Protocol"> Quiet_Protocol</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-In_Progress-2ea44f?style=flat-square" alt="In Progress">
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE">
@@ -14,7 +14,7 @@
       <br>
     </td>
     <td width="35%" align="right" valign="middle">
-      <a href="https://github.com/Jellyeee/QP">
+      <a href="https://github.com/Jellyeee/Quiet_Protocol">
         <img src="https://github.com/user-attachments/assets/16d44977-96fb-469b-847c-7ceb5a0ec233" width="250" style="border-radius: 8px;" alt="Quiet Protocol"/>
       </a>
     </td>
